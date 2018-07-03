@@ -1,0 +1,6 @@
+@media only screen and (max-width: 600px) {
+    .programs {
+        display: block;
+        margin-bottom: 2rem;
+    }
+}

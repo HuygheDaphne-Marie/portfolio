@@ -1,0 +1,22 @@
+.project {
+    width: 32rem;
+    height: 14rem;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.project div {
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    color: transparent;
+    transition: all .7s;
+}
+
+.project div:hover {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+}

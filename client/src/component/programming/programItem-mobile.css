@@ -1,0 +1,21 @@
+@media only screen and (max-width: 600px) {
+    .program {
+        width: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .program+.program {
+        margin-top: 1rem;
+    }
+    
+    .program img  {
+        height: 4rem;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .program p {
+        padding: 0 0.4rem 0 0.4rem;
+    }
+}

@@ -1,0 +1,31 @@
+@media only screen and (max-width: 600px) {
+    #about {
+        display: block;
+    }
+
+    #about article {
+        padding-top: 2rem;
+        margin: 0 auto 2rem auto;
+    }
+
+    #about img {
+        position: relative;
+        left: calc(45vw - 110px);
+        float: none;
+    }
+
+    #about article div {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    #about h2 {
+        font-size: 1.4rem;
+    }
+    
+    #about p {
+        margin: 0;
+        padding: 0 0.4rem 0 0.4rem;
+    }
+}

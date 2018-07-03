@@ -1,0 +1,23 @@
+.program {
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.program img {
+    height: 6rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.program h3 {
+    letter-spacing: 4px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.program p {
+    margin: 0;
+    text-align: center
+}

@@ -1,0 +1,35 @@
+#about {
+    display: flex;
+    width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#about article {
+    margin: 6rem auto 6rem auto;
+}
+
+#about img {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    margin-right: 2rem;
+    float: left;
+}
+
+#about article div {
+    width: 35vw;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#about h2 {
+    margin-top: 0;
+    color: #222;
+}
+
+#about p {
+    margin: 0;
+}

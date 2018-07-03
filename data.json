@@ -1,0 +1,36 @@
+{
+    "programs": [
+        {
+            "id": 1,
+            "title": "Python",
+            "subtext": "My first programming language, I started messing around with Python when I was about 16, before my bachelor studies.",
+            "img": "python.png"
+        },
+        {
+            "id": 2,
+            "title": "Java",
+            "subtext": "Learned Java in my first year of college. I've mostly used this for school projects.",
+            "img": "java.png"
+        },
+        {
+            "id": 3,
+            "title": "C#",
+            "subtext": "Started learning C# last semester when we had a .NET development class, I want to get deeper into it and use it to make games in unity.",
+            "img": "csharp.png"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "Personal website",
+            "subtext": "The website you're on right now! Made using React & Express JS. Was a bit of work to learn React, Express and also how to deploy a website.",
+            "img": "personalWebsite.png"
+        },
+        {
+            "id": 2,
+            "title": "Unity game",
+            "subtext": "I am making my own game with Unity this summer to see if making games is something I like. If it is I'll be making more.",
+            "img": "game.png"
+        }
+    ]
+}

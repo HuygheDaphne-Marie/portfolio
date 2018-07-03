@@ -1,0 +1,60 @@
+header {
+    height: 100vh;
+    background-color: #222;
+    color: #FFF;
+    display: flex;
+}
+
+header nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 69vw; /* 1 mystery vw gone somewhere... */
+    padding: 0 15vw 0 15vw;
+}
+
+header nav a {
+    display: inline-block;
+    font-size: 1.125rem;
+    color: #FFF;
+    text-decoration: none;
+    margin: 2rem 2rem 2rem 0;
+}
+
+header nav a.right {
+    float: right;
+    margin-right: 0;
+}
+
+header h1 {
+    font-size: 150px;
+    letter-spacing: 20px;
+    margin: auto;
+}
+
+header img {
+    display: block;
+    position: absolute;
+    width: 5rem;
+    bottom: 1rem;
+    left: calc(50vw - 2.5rem)
+}
+
+.typewriter {
+    overflow: hidden;
+    border-right: .05em solid white;
+    white-space: nowrap;
+    animation: 
+      typing 1.2s steps(8, end),
+      blink-caret .9s step-end infinite;
+  }
+  
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 977px }
+  }
+  
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: white; }
+  }

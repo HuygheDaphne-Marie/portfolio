@@ -9,14 +9,26 @@
         {
             "id": 2,
             "title": "Java",
-            "subtext": "Learned Java in my first year of college. I've mostly used this for school projects.",
+            "subtext": "Learned object oriented Java in my first year of college. I've mostly used this for school projects.",
             "img": "java.png"
         },
         {
             "id": 3,
             "title": "C#",
-            "subtext": "Started learning C# last semester when we had a .NET development class, I want to get deeper into it and use it to make games in unity.",
+            "subtext": "Started learning C# last semester when we had a .NET development class, I want to get deeper into it and use it to make games in Unity.",
             "img": "csharp.png"
+        },
+        {
+            "id": 4,
+            "title": "Web",
+            "subtext": "Expereince with HTML, CSS & JS. Also React & Express which this website is built on. I learned HTML, CSS & JS in school and thaught myself React & JS.",
+            "img": "web.png"
+        },
+        {
+            "id": 5,
+            "title": "Nodejs",
+            "subtext": "I've been getting into Node and I've had fun learning the basics, it's certainly something I want to learn more about and use for more projects.",
+            "img": "nodejs.png"
         }
     ],
     "projects": [

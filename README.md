@@ -1,6 +1,7 @@
 # Portfolio 1.0
 
 Personal portfolio website made during the summer.
+
 *Note: This is an old version a new portfolio will be made & availible in another repo soon™.*
 
 # What I Learned
